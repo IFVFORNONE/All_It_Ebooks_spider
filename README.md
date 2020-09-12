@@ -1,0 +1,2 @@
+# All_It_Ebooks_spider
+获取www.allitebooks.org里的所有书籍的下载链接和书籍信息
